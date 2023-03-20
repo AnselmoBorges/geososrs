@@ -10,4 +10,5 @@ def buscaCEP(cep):
     except:
         return False
 
-    buscaCEP('01521000')
+
+buscaCEP('01521000')

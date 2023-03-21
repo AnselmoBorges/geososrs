@@ -1,4 +1,5 @@
 {
   "host": "https://adb-1244992148830906.6.azuredatabricks.net/",
-  "authType": "azure-cli"
+  "authType": "azure-cli",
+  "workspacePath": "/Repos/anselmoborges@gmail.com/codespace.ide"
 }

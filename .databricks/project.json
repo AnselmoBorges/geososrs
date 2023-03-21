@@ -1,6 +1,5 @@
 {
   "host": "https://adb-1244992148830906.6.azuredatabricks.net/",
   "authType": "azure-cli",
-  "clusterId": "0320-220405-5cmmfsr6",
   "workspacePath": "/Repos/anselmoborges@gmail.com/codespace.ide"
 }

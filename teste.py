@@ -10,5 +10,7 @@ def buscaCEP(cep):
     except:
         return False
 
-
-buscaCEP('01521000')
+## mostrar o resultado do cep
+cep = '01521000'
+resultado = buscaCEP(cep)
+print(resultado)

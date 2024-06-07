@@ -10,7 +10,7 @@ st.sidebar.image(img, caption='Ajude o Rio Grande do Sul', use_column_width=True
 # Adicionar informações de contato e links úteis
 st.sidebar.header('Informações:')
 st.sidebar.write('Telefone de Emergência: 193 (Bombeiros), 190 (Polícia), 192 (Ambulância)')
-st.sidebar.write('Saiba como ajudar, visite o [Instagram do projeto](https://www.instagram.com/sosrs_ajuda/)')
+#st.sidebar.write('Saiba como ajudar, visite o [Instagram do projeto](https://www.instagram.com/sosrs_ajuda/)')
 
 # Link para o projeto no GitHub
 st.sidebar.markdown('**Projeto SOS RS no GitHub:** [Clique aqui](https://github.com/SOS-RS)')
